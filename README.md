@@ -1,5 +1,5 @@
-# CoinAndPoissonSimulation
-Simulates coin tosses and the Poisson distribution, comparing experimental histograms with theoretical probability mass functions.
+# Poisson Simulation
+
 
 1- Generate 1000 Poisson distributed random numbers with parameter 𝜆 = 5 (poissrnd)*. 
 
