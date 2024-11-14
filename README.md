@@ -11,6 +11,8 @@
 
 5- You can try doing this with more than 1000 samples from the Poisson distribution to get better agreement between the two. 
 
+6- If you get an error saying poissrnd was not found, run the poisson_workaround.m in the pset zip file before proceeding.
+
 ***Hint: By default hist gives 10 equally-spaced bins; One bar for each non-negative integer.*** 
 
 
